@@ -2,9 +2,11 @@ Longan Nano Race Game
 
 [Farmwear]
 
-NanoRace64KB.bin
+NanoRace.zip
 
-NanoRace128KB.bin
+ +NanoRace64KB.bin
+
+ +NanoRace128KB.bin
 
 [Sauce]
 
